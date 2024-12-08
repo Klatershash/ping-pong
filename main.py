@@ -18,6 +18,8 @@ font = pygame.font.Font(None, 70)
 paddle_width = 20
 paddle_height = 130
 
+
+
 ball_size = 20
 
 player1 = pygame.Rect(50, height // 2 - paddle_height//2, paddle_width, paddle_height)
